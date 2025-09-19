@@ -19,6 +19,11 @@ cd LogAnything/backend
 npm install
 node server.js
 
+### Database
+
+Install MongoDB and use MongoDB Compass
+Connect to localhost:27017
+
 🏗️ Project Architecture Overview
 
 LogAnything is a full-stack journaling/logging application with AI integration, built using modern web technologies with a clear separation between frontend and backend.
