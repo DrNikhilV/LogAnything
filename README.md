@@ -24,6 +24,12 @@ node server.js
 Install MongoDB and use MongoDB Compass
 Connect to localhost:27017
 
+### Chatbot
+
+Navigate to Google's AI Studio and create a free Gemini API key
+Add the API key to the backend's env file
+
+
 🏗️ Project Architecture Overview
 
 LogAnything is a full-stack journaling/logging application with AI integration, built using modern web technologies with a clear separation between frontend and backend.
